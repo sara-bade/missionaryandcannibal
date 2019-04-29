@@ -5,4 +5,3 @@ Library Used : Pygame
 
 This project also contains the state space tree of the possible states of the game
 
-This project was done as the mini project of AI
